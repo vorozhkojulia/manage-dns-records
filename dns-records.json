@@ -1,0 +1,12 @@
+{
+    "resume" : {
+        "name" : "abc.julia.vorozhko.net",
+        "type" : "A",
+        "records" : ["1.1.1.1", "2.2.2.2"]
+    },
+    "blog" : {
+        "name" : "blog2.julia.vorozhko.net",
+        "type" : "CNAME",
+        "records" : ["vorozhko.net"]
+    }
+}
